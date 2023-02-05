@@ -1,0 +1,92 @@
+{
+	"readings": {
+		"fool": {
+			"normal": "fool_meaning",
+			"reversed": "fool_reversed_meaning"
+		},
+		"magician": {
+			"normal": "magician_meaning",
+			"reversed": "magician_reversed_meaning"
+		},
+		"high_priestess": {
+			"normal": "high_priestess_meaning",
+			"reversed": "high_priestess_reversed_meaning"
+		},
+		"empress": {
+			"normal": "empress_meaning",
+			"reversed": "empress_reversed_meaning"
+		},
+		"emperor": {
+			"normal": "emperor_meaning",
+			"reversed": "emperor_reversed_meaning"
+		},
+		"hierophant": {
+			"normal": "hierophant_meaning",
+			"reversed": "hierophant_reversed_meaning"
+		},
+		"lovers": {
+			"normal": "lovers_meaning",
+			"reversed": "lovers_reversed_meaning"
+		},
+		"chariot": {
+			"normal": "chariot_meaning",
+			"reversed": "chariot_reversed_meaning"
+		},
+		"strength": {
+			"normal": "strength_meaning",
+			"reversed": "strength_reversed_meaning"
+		},
+		"hermit": {
+			"normal": "hermit_meaning",
+			"reversed": "hermit_reversed_meaning"
+		},
+		"wheel_of_fortune": {
+			"normal": "wheel_of_fortune_meaning",
+			"reversed": "wheel_of_fortune_reversed_meaning"
+		},
+		"justice": {
+			"normal": "justice_meaning",
+			"reversed": "justice_reversed_meaning"
+		},
+		"hanged_man": {
+			"normal": "hanged_man_meaning",
+			"reversed": "hanged_man_reversed_meaning"
+		},
+		"death": {
+			"normal": "death_meaning",
+			"reversed": "death_meaning_reversed"
+		},
+		"temperance": {
+			"normal": "temperance_meaning",
+			"reversed": "temperance_meaning_reversed"
+		},
+		"devil": {
+			"normal": "devil_meaning",
+			"reversed": "devil_reversed_meaning"
+		},
+		"tower": {
+			"normal": "tower_meaning",
+			"reversed": "tower_meaning_reversed"
+		},
+		"star": {
+			"normal": "star_meaning",
+			"reversed": "star_meaning_reversed"
+		},
+		"moon": {
+			"normal": "moon_meaning",
+			"reversed": "moon_meaning_reversed"
+		},
+		"sun": {
+			"normal": "sun_meaning",
+			"reversed": "sun_meaning_reversed"
+		},
+		"judgement": {
+			"normal": "judgement_meaning",
+			"reversed": "judgement_meaning_reversed"
+		},
+		"world": {
+			"normal": "world_meaning",
+			"reversed": "world_meaning_reversed"
+		}
+	}
+}
